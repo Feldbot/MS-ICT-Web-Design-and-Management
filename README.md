@@ -7,7 +7,7 @@
 A course requirement was to build or redesign a website for a real-world client. I worked with professional painter Paul Grass to redesign his WordPress website. A primary focus of the project was to capture the business requirements for the redesign, which can be seen below in the site specification document (SSD). The SSD was the result of an ongoing collaborative effort between the developer and client, and served to keep the project scope on track. The SSD also served as a useful road map to rebuild the site. The client was saw an increase in traffic and business after the redesign and was happy with the new site.   
 
 ### Site Specification Document
-- [Site Specification Document](https://github.com/Feldbot/MS-ICT-Web-Design-and-Management/blob/master/Daniel_Feldman_paulgrass.com_SSD.pdf)
+- [Paulgrass.com SSD](https://github.com/Feldbot/MS-ICT-Web-Design-and-Management/blob/master/Daniel_Feldman_paulgrass.com_SSD.pdf)
 
 ### Site Examples
 _Note: The following links are archived versions of the website._  
